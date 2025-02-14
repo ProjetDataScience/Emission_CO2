@@ -3,73 +3,75 @@ Objectif du projet : identifier les véhicules qui émettent le plus de CO2 pour
 
 Le jeu de données utilisé contient les véhicules enregistrés en 2022 en France téléchargeable sur https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-20
 
-ID  Identiﬁcation number. 
+Définition des champs du jeu de données :
 
- MS  Member state. 
+- ID = Identiﬁcation number. 
 
- Mp  Manufacturer pooling. 
+- MS = Member state. 
 
- VFN  Vehicle family identiﬁcation number. 
+- Mp = Manufacturer pooling. 
 
- Mh  Manufacturer name EU standard denomination . 
+- VFN = Vehicle family identiﬁcation number. 
 
- Man  Manufacturer name OEM declaration. 
+- Mh = Manufacturer name EU standard denomination . 
 
- MMS  Manufacturer name MS registry denomination . 
+- Man = Manufacturer name OEM declaration. 
 
- TAN  Type approval number. 
+- MMS = Manufacturer name MS registry denomination . 
 
- T  Type. 
+- TAN = Type approval number. 
 
- Va  Variant. 
+- T = Type. 
 
- Ve  Version. 
+- Va = Variant. 
 
- Mk  Make. 
+- Ve = Version. 
 
- Cn  Commercial name. 
+- Mk = Make. 
 
- Ct  Category of the vehicle type approved. 
+- Cn = Commercial name. 
 
- Cr  Category of the vehicle registered. 
+- Ct = Category of the vehicle type approved. 
 
- M (kg)  Mass in running order Completed/complete vehicle . 
+- Cr = Category of the vehicle registered. 
 
- Mt  WLTP test mass. 
+- M (kg) = Mass in running order Completed/complete vehicle . 
 
- Ewltp (g/km)  Speciﬁc CO2 Emissions
+- Mt = WLTP test mass. 
+
+- Ewltp (g/km) = Speciﬁc CO2 Emissions
   
- W (mm)  Wheel Base. 
+- W (mm) = Wheel Base. 
  
- At1 (mm)  Axle width steering axle. 
+- At1 (mm) = Axle width steering axle. 
 
- At2 (mm)  Axle width other axle. 
+- At2 (mm) = Axle width other axle. 
  
- Ft  Fuel type. 
+- Ft = Fuel type. 
  
- Fm  Fuel mode. 
+- Fm = Fuel mode. 
  
- Ec (cm3)  Engine capacity. 
+- Ec (cm3) = Engine capacity. 
 
- Ep (KW)  Engine power. 
+- Ep (KW) = Engine power. 
  
- Z (Wh/km)  Electric energy consumption. 
+- Z (Wh/km) = Electric energy consumption. 
 
- IT  Innovative technology or group of innovative technologies. 
+- IT = Innovative technology or group of innovative technologies. 
 
- Erwltp (g/km)  Emissions reduction through innovative technologies
+- Erwltp (g/km) = Emissions reduction through innovative technologies
 
- R  Total new registrations. 
+- R = Total new registrations. 
 
- Year  Reporting year. 
+- Year = Reporting year. 
 
- Status  P = Provisional data, F = Final data
+- Status  P = Provisional data, F = Final data
 
- E (g/km)  Speciﬁc CO2 Emission
+- E (g/km) = Speciﬁc CO2 Emission
 
- Er (g/km)  Emissions reduction through innovative technologies
- Zr  Electric range. 
+- Er (g/km) = Emissions reduction through innovative technologies
+- Zr = Electric range. 
  
- Dr  Registration date. 
+- Dr = Registration date. 
  
- Fc  Fuel consumption.
+- Fc = Fuel consumption.
